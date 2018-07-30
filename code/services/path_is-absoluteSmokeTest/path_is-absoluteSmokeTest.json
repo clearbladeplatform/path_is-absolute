@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,path_is-absolute",
+    "logging_enabled": "false",
+    "name": "path_is-absoluteSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "path_is-absoluteSmokeTest.js"
+}
